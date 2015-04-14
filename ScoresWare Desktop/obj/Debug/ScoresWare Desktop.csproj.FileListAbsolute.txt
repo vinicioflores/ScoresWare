@@ -1,0 +1,17 @@
+c:\users\vinicio\documents\visual studio 2013\Projects\ScoresWare Desktop\ScoresWare Desktop\bin\Debug\ScoresWare Desktop.exe.config
+c:\users\vinicio\documents\visual studio 2013\Projects\ScoresWare Desktop\ScoresWare Desktop\bin\Debug\ScoresWare Desktop.exe
+c:\users\vinicio\documents\visual studio 2013\Projects\ScoresWare Desktop\ScoresWare Desktop\bin\Debug\ScoresWare Desktop.pdb
+c:\users\vinicio\documents\visual studio 2013\Projects\ScoresWare Desktop\ScoresWare Desktop\obj\Debug\ScoresWare Desktop.csprojResolveAssemblyReference.cache
+c:\users\vinicio\documents\visual studio 2013\Projects\ScoresWare Desktop\ScoresWare Desktop\obj\Debug\ScoresWare_Desktop.LoginWindow.resources
+c:\users\vinicio\documents\visual studio 2013\Projects\ScoresWare Desktop\ScoresWare Desktop\obj\Debug\ScoresWare_Desktop.MainPanel.resources
+c:\users\vinicio\documents\visual studio 2013\Projects\ScoresWare Desktop\ScoresWare Desktop\obj\Debug\ScoresWare_Desktop.Properties.Resources.resources
+c:\users\vinicio\documents\visual studio 2013\Projects\ScoresWare Desktop\ScoresWare Desktop\obj\Debug\ScoresWare Desktop.csproj.GenerateResource.Cache
+c:\users\vinicio\documents\visual studio 2013\Projects\ScoresWare Desktop\ScoresWare Desktop\obj\Debug\ScoresWare Desktop.exe
+c:\users\vinicio\documents\visual studio 2013\Projects\ScoresWare Desktop\ScoresWare Desktop\obj\Debug\ScoresWare Desktop.pdb
+C:\Users\Vinicio\documents\visual studio 2013\Projects\ScoresWare Desktop\ScoresWare Desktop\obj\Debug\ScoresWare_Desktop.VistaGruposTodos.resources
+C:\Users\Vinicio\documents\visual studio 2013\Projects\ScoresWare Desktop\ScoresWare Desktop\obj\Debug\ScoresWare_Desktop.VistaEstudiantesGrupoTodos.resources
+C:\Users\Vinicio\documents\visual studio 2013\Projects\ScoresWare Desktop\ScoresWare Desktop\obj\Debug\ScoresWare_Desktop.VistaEstudiantesTodos.resources
+C:\Users\Vinicio\documents\visual studio 2013\Projects\ScoresWare Desktop\ScoresWare Desktop\obj\Debug\ScoresWare_Desktop.VistaProfesoresTodos.resources
+C:\Users\Vinicio\documents\visual studio 2013\Projects\ScoresWare Desktop\ScoresWare Desktop\obj\Debug\ScoresWare_Desktop.VistaUsuariosTodos.resources
+C:\Users\Vinicio\documents\visual studio 2013\Projects\ScoresWare Desktop\ScoresWare Desktop\obj\Debug\ScoresWare_Desktop.FormularioAgregarEstudiante.resources
+C:\Users\Vinicio\documents\visual studio 2013\Projects\ScoresWare Desktop\ScoresWare Desktop\obj\Debug\ScoresWare_Desktop.FormularioAgregarProfesor.resources

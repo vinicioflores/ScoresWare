@@ -1,0 +1,6 @@
+﻿INSERT INTO [dbo].[Evaluaciones] ([id], [evaluacionPorEstudiantePorGrupo], [nombre], [descripcion], [nota]) VALUES (0, 0, N'Modelo Conceptual', NULL, 33)
+INSERT INTO [dbo].[Evaluaciones] ([id], [evaluacionPorEstudiantePorGrupo], [nombre], [descripcion], [nota]) VALUES (1, 0, N'Modelo Fisico', NULL, 33)
+INSERT INTO [dbo].[Evaluaciones] ([id], [evaluacionPorEstudiantePorGrupo], [nombre], [descripcion], [nota]) VALUES (2, 0, N'Bitacora de trabajo', NULL, 33)
+INSERT INTO [dbo].[Evaluaciones] ([id], [evaluacionPorEstudiantePorGrupo], [nombre], [descripcion], [nota]) VALUES (3, 1, N'Scripts de llenado', NULL, 40)
+INSERT INTO [dbo].[Evaluaciones] ([id], [evaluacionPorEstudiantePorGrupo], [nombre], [descripcion], [nota]) VALUES (4, 1, N'Scripts de creacion', NULL, 40)
+INSERT INTO [dbo].[Evaluaciones] ([id], [evaluacionPorEstudiantePorGrupo], [nombre], [descripcion], [nota]) VALUES (5, 2, N'Aplicacion Escritorio', NULL, 75)
